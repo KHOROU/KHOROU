@@ -1,7 +1,7 @@
 
 ## Personal Information
-- **Name:** Your Name
-- **Date of Birth:** Your Date of Birth
+- **Name:** UWAIS
+- **Date of Birth:** 28/8/ 2010
 - **Location:** Your City, Country
 - **Email:** your.email@example.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
