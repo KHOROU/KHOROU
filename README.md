@@ -3,7 +3,7 @@
 - **Name:** UWAIS
 - **Date of Birth:** 28/8/ 2010
 - **Location:** Your City, Country
-- **Email:** your.email@example.com
+- **Email:** nabiluais112@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
 
 ## Education
@@ -25,11 +25,11 @@
 - Brief description of responsibilities and achievements.
 
 ## Projects
-### Project Name 1 (Date)
-- Brief description of the project and your role.
+### heros of resilion  (Date)
+- desainer
 
-### Project Name 2 (Date)
-- Brief description of the project and your role.
+### ecobin
+- eengineer
 
 ## Certifications
 - Certification Name, Issuing Organization (Date)
